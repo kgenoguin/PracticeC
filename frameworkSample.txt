@@ -1,0 +1,6 @@
+FRAMEWORK SAMPLE
+
+function A
+{
+	print "Hello World!";
+}
