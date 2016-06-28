@@ -5,7 +5,7 @@ function A
 	print "Hello World!";
 }
 
-function Hi
+function is_password_match(p1, p2)
 {
-	print "Hi!";
+	return p1 == p2;
 }
